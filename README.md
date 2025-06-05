@@ -1,3 +1,3 @@
 # installation
-1 place it in a file in path or add that file to path \n
+1 place it in a file in path or add that file to path
 2 enjoy
